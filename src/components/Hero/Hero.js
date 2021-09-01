@@ -12,7 +12,7 @@ const Hero = (props) => (
         My Personal Portfolio
       </SectionTitle>
       <SectionText>
-        Hi Everyone My name is Josue Aaron Mosquera and I'm a web developer  I Love to Develop and Learn, I'm sure if you want do something if you have the wish all its possible.
+      Hi, I am Josue Mosquera and I'm a Web Developer. I love to develop and learn. I'm sure that if you want do something with desire all is possible.
       </SectionText>
       <Button onClick={()=>window.location='https://wa.link/meag7v'}>Contact Me</Button>
     </LeftSection>
