@@ -5,7 +5,7 @@ export const projects = [
     image: '/images/1.png',
     tags: ['Html', 'Css', 'Bootstrap', 'Python','Django'],
   source: 'https://github.com/jag-mosquera/jag-mosquera.github.io',
-  visit: 'https://jag-mosquera.github.io/',
+  visit: 'https://indieec.github.io/',
   id: 0,
   },
   {
